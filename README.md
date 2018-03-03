@@ -1,4 +1,4 @@
-# FirstFullStackReactProject
+# Maily
 
 Simple Auto Emailer working with Google and Stripe APIs on backend, with a React frontend. 
 You will need to provide your own Google API, Stripe API, and Sendgrid API keys in a .env file.
